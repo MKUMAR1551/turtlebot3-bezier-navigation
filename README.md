@@ -78,5 +78,5 @@ The system successfully navigates the 2m×2m area.
     Your browser does not support the video tag.
   </video>
 </div>
-The g<img width="1199" height="873" alt="Screenshot from 2026-02-19 13-19-16" src="https://github.com/user-attachments/assets/e1ab079e-3bb1-4422-b280-94fdd057beb1" />
-enerated plots confirm the controller's effectiveness. The spatial trajectory shows perfect corner smoothing, while the velocity profile graph verifies the adaptive speed reduction during cornering and the hard stop upon reaching the FINISHED state.
+<img width="1199" height="873" alt="Screenshot from 2026-02-19 13-19-16" src="https://github.com/user-attachments/assets/e1ab079e-3bb1-4422-b280-94fdd057beb1" />
+The generated plots confirm the controller's effectiveness. The spatial trajectory shows perfect corner smoothing, while the velocity profile graph verifies the adaptive speed reduction during cornering and the hard stop upon reaching the FINISHED state.
