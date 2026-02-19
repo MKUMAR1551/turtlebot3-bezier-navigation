@@ -72,6 +72,7 @@ Note: Ensure the Fixed Frame is set to odom to view the published /smooth_path t
 
 The system successfully navigates the 2m×2m area.
 ## Navigation Demo
+https://github.com/user-attachments/assets/23965993-f886-48d6-b989-322b32cd295c
 <div align="center">
   <h3>Project Demonstration</h3>
   <video src="https://github.com/MKUMAR1551/turtlebot3-bezier-navigation/raw/main/turtlebot.mp4" width="100%" controls>
