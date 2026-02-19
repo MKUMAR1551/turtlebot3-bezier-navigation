@@ -71,7 +71,11 @@ Note: Ensure the Fixed Frame is set to odom to view the published /smooth_path t
 5. Results and Analysis
 
 The system successfully navigates the 2m×2m area.
-<img width="1000" height="600" alt="velocity_profile" src="https://github.com/user-attachments/assets/8fefe260-ff02-446e-9145-3ce3f2d6b7ee" />
-
-
-The generated plots confirm the controller's effectiveness. The spatial trajectory shows perfect corner smoothing, while the velocity profile graph verifies the adaptive speed reduction during cornering and the hard stop upon reaching the FINISHED state.
+## Navigation Demo
+<div align="center">
+  <video src="turtlebot.mp4" width="100%" controls>
+    Your browser does not support the video tag.
+  </video>
+</div>
+The g<img width="1199" height="873" alt="Screenshot from 2026-02-19 13-19-16" src="https://github.com/user-attachments/assets/e1ab079e-3bb1-4422-b280-94fdd057beb1" />
+enerated plots confirm the controller's effectiveness. The spatial trajectory shows perfect corner smoothing, while the velocity profile graph verifies the adaptive speed reduction during cornering and the hard stop upon reaching the FINISHED state.
