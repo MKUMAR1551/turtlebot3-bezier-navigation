@@ -71,6 +71,7 @@ Note: Ensure the Fixed Frame is set to odom to view the published /smooth_path t
 5. Results and Analysis
 
 The system successfully navigates the 2m×2m area.
-(Attach your bezier_trajectory_plot.png here in your final document).
+<img width="1000" height="600" alt="velocity_profile" src="https://github.com/user-attachments/assets/8fefe260-ff02-446e-9145-3ce3f2d6b7ee" />
+
 
 The generated plots confirm the controller's effectiveness. The spatial trajectory shows perfect corner smoothing, while the velocity profile graph verifies the adaptive speed reduction during cornering and the hard stop upon reaching the FINISHED state.
