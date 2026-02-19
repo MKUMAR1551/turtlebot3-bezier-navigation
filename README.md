@@ -79,5 +79,7 @@ https://github.com/user-attachments/assets/23965993-f886-48d6-b989-322b32cd295c
     Your browser does not support the video tag.
   </video>
 </div>
+<img width="3600" height="1500" alt="turtle_bot" src="https://github.com/user-attachments/assets/82227841-e5d9-4d4a-b7cc-9d8437464734" />
+
 <img width="1199" height="873" alt="Screenshot from 2026-02-19 13-19-16" src="https://github.com/user-attachments/assets/e1ab079e-3bb1-4422-b280-94fdd057beb1" />
 The generated plots confirm the controller's effectiveness. The spatial trajectory shows perfect corner smoothing, while the velocity profile graph verifies the adaptive speed reduction during cornering and the hard stop upon reaching the FINISHED state.
